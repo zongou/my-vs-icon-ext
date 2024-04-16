@@ -1,0 +1,6 @@
+{
+  "displayName": "My extension displayName",
+  "description": "My extension description",
+  "themeLabel": "My extension themeLabel",
+  "setiBasedThemeLabel": "Seti based custom theme"
+}

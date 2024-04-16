@@ -1,0 +1,37 @@
+{
+  "name": "my-extension-id",
+  "private": true,
+  "version": "1.0.0",
+  "displayName": "%displayName%",
+  "description": "%description%",
+  "publisher": "extension-publisher-id",
+  "license": "MIT",
+  "icon": "icons/extension-icon.png",
+  "scripts": {
+    "update": "node ./build/update-icon-theme.js"
+  },
+  "engines": {
+    "vscode": "*"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "my-theme-id",
+        "label": "%themeLabel%",
+        "path": "./my-icon-theme.json"
+      },
+      {
+        "id": "seti-based",
+        "label": "%setiBasedThemeLabel%",
+        "path": "./vs-seti-based-icon-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zongou/my-vs-icon-theme.git"
+  }
+}
