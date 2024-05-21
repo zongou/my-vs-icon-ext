@@ -19,19 +19,19 @@
   "contributes": {
     "iconThemes": [
       {
-        "id": "my-theme-id",
+        "id": "minimal-based",
         "label": "%themeLabel%",
-        "path": "./my-icon-theme.json"
+        "path": "./minimal-based.json"
       },
       {
         "id": "seti-based",
-        "label": "%setiBasedThemeLabel%",
-        "path": "./vs-seti-based-icon-theme.json"
+        "label": "%themeLabel%",
+        "path": "./seti-based.json"
       }
     ]
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zongou/my-vs-icon-theme.git"
+    "url": "https://github.com/zongou/vs-custom-fonts.git"
   }
 }

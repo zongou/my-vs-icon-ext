@@ -1,6 +1,6 @@
 {
-  "displayName": "My extension displayName",
-  "description": "My extension description",
-  "themeLabel": "My extension themeLabel",
+  "displayName": "Custom Fonts",
+  "description": "Use fonts without installing to system",
+  "themeLabel": "Custom Fonts",
   "setiBasedThemeLabel": "Seti based custom theme"
 }
