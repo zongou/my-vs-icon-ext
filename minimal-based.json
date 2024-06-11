@@ -2,7 +2,7 @@
   "hidesExplorerArrows": true,
   "fonts": [
     {
-      "id": "my-font-id",
+      "id": "FiraCode Nerd Font Mono",
       "src": [
         {
           "path": "fonts/FiraCodeNerdFontMono-Regular.ttf",
@@ -11,7 +11,19 @@
       ],
       "weight": "normal",
       "style": "normal",
-      "size": "100%"
+      "size": "150%"
+    },
+    {
+      "id": "VictorMono NFM",
+      "src": [
+        {
+          "path": "fonts/VictorMonoNerdFontMono-Medium.ttf",
+          "format": "truetype"
+        }
+      ],
+      "weight": "normal",
+      "style": "normal",
+      "size": "150%"
     }
   ],
   "iconDefinitions": {

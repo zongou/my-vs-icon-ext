@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "displayName": "%displayName%",
   "description": "%description%",
-  "publisher": "extension-publisher-id",
+  "publisher": "publisher-id",
   "license": "MIT",
   "icon": "icons/extension-icon.png",
   "scripts": {
@@ -19,19 +19,19 @@
   "contributes": {
     "iconThemes": [
       {
-        "id": "minimal-based",
-        "label": "%themeLabel%",
+        "id": "minial-based",
+        "label": "%themeLabel-minial%",
         "path": "./minimal-based.json"
       },
       {
         "id": "seti-based",
-        "label": "%themeLabel%",
+        "label": "%themeLabel-seti%",
         "path": "./seti-based.json"
       }
     ]
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zongou/vs-custom-fonts.git"
+    "url": "https://github.com/zongou/my-vs-icon-theme.git"
   }
 }

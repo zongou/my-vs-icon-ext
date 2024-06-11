@@ -18,5 +18,6 @@
 ```json
   "workbench.iconTheme": "seti-based",
   "editor.fontLigatures": true,
-  "editor.fontFamily": "'FiraCode_Nerd_Font_Mono', 'my-font-id', 'Droid Sans Mono', 'monospace', monospace"
+  // "editor.fontFamily": "'VictorMono NFM', 'Droid Sans Mono', 'monospace', monospace",
+  "editor.fontFamily": "'FiraCode Nerd Font Mono', 'Droid Sans Mono', 'monospace', monospace",
 ```

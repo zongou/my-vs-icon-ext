@@ -1,6 +1,6 @@
 {
   "displayName": "Custom Fonts",
-  "description": "Use fonts without installing to system",
-  "themeLabel": "Custom Fonts",
-  "setiBasedThemeLabel": "Seti based custom theme"
+  "description": "Custom fonts without installing to system",
+  "themeLabel-minial": "Custom Font Minimal",
+  "themeLabel-seti": "Custom Font Seti"
 }

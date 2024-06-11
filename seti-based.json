@@ -31,6 +31,18 @@
       "weight": "normal",
       "style": "normal",
       "size": "150%"
+    },
+    {
+      "id": "VictorMono NFM",
+      "src": [
+        {
+          "path": "fonts/VictorMonoNerdFontMono-Medium.ttf",
+          "format": "truetype"
+        }
+      ],
+      "weight": "normal",
+      "style": "normal",
+      "size": "150%"
     }
   ],
   "iconDefinitions": {
